@@ -1,3 +1,8 @@
+Primera preentrega de proyecto react.
+El proyecto será un ecommerce de suplmentos alimenticios y vitaminicos
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
